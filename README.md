@@ -11,6 +11,7 @@ Je suis développeur web, spécialisé dans la création de solutions numérique
 ![](https://github-readme-stats.vercel.app/api?username=KeranTyrinthe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KeranTyrinthe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeranTyrinthe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![An image of @kerantyrinthe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kerantyrinthe)](https://holopin.io/@kerantyrinthe)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
