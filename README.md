@@ -1,5 +1,6 @@
 # 💫 About Me:
-Je suis développeur web, spécialisé dans la création de solutions numériques modernes et centrées sur l’utilisateur.
+Développeur web spécialisé dans la conception et le développement de solutions numériques modernes, performantes et centrées sur l’expérience utilisateur.
+Je conçois des applications robustes, évolutives et adaptées aux besoins réels des utilisateurs et des entreprises.
 
 
 ## 🌐 Socials:
