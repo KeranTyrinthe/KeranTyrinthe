@@ -4,7 +4,7 @@ Développeur web et mobile, Product Designer, UI/UX Designer et développeur de 
 
 J’interviens de la réflexion produit jusqu’à la mise en production : recherche et conception UX, création d’interfaces sur Figma, prototypage, développement d’applications web et mobiles, intégration d’API, gestion de bases de données et création d’expériences vidéoludiques.
 
-Je développe également Velt, mon propre framework PHP pensé pour simplifier et accélérer la création d’applications modernes.
+Je développe également Velt, un framework PHP conçu pour rendre le développement d’applications cross-plateformes modernes plus simple, rapide et structuré.
 
 Mon objectif est de transformer des idées et des besoins réels en solutions numériques utiles, intuitives, évolutives et adaptées aux utilisateurs comme aux entreprises.
 
